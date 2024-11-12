@@ -4,7 +4,7 @@ Erfia Nadia Safari (2205101081) TIF 5D
 ## Latihan 1: Semantic HTML
 
 ## Analisis beberapa syntax/code yang belum di revisi dengan yang sudah di revisi
-1. Jika tidak menggunakan tag **<html>** maka tidak dapat mengatur dan mendefinisikan struktur, konten, dan tampilan halaman web.
+1. Jika tidak menggunakan tag <html> maka tidak dapat mengatur dan mendefinisikan struktur, konten, dan tampilan halaman web.
    
 3. Atribut **lang** juga membantu sistem dan layanan pihak ketiga (seperti layanan penerjemah otomatis) untuk mengidentifikasi bahasa halaman. Tanpa informasi ini, hasil terjemahan otomatis mungkin kurang akurat       atau tidak tersedia bagi pengguna yang tidak berbicara bahasa utama konten.
    
